@@ -1,0 +1,19 @@
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.swiftpm/
+.idea/
+.claude/settings.local.json
+
+# Generated from project.yml by xcodegen
+*.xcodeproj/
+
+# Your signing certificate for scripts/install.sh
+scripts/local.env
+
+# Private working files, not part of the public repo
+Marketing/
+PRD.md
+Docs/NEXT.md
